@@ -67,4 +67,4 @@ workaround.
 
 For the complete setup (Ubuntu + Windows hosts, verifying the connection,
 rviz2, troubleshooting): see the team runbook,
-`runbook-fsds-simulator-en.md`.
+[Runbook - FSDS Simulator Setup & Usage](https://wiki.ionracing.no/s/VI/p/runbook-fsds-simulator-setup-and-usage-ubuntu-and-windows-hosts-Y8T65dNMfj).
